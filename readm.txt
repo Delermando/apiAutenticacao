@@ -1,0 +1,1 @@
+Api de autenticacao baseado no padrao Oauth2.0 usando o laravel como back-end.
